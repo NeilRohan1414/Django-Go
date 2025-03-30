@@ -16,9 +16,10 @@ STATIC_URL type STATICFILES_DIRS=[os.path.join(BASE_DIR, 'your path to sources']
 # 6. next to tell Django to create its own source file and put all the files ther-----------below 5th 
 STATIC_ROOT = os.path.join(BASE_DIR, 'name of that file')
 
-//////////////////
+# //////////////////
 
-model and migrations
+# model and migrations
 
-1. in settings in databases--------- .backend."your rdms <postgresql>" and unser name -------"your data name to connect with".
-..........rest in binary book....
+# 1. in settings in databases---------
+backend."your rdms <postgresql>" and unser name -------"your data name to connect with".
+# ..........rest in binary book....
